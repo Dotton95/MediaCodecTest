@@ -28,6 +28,7 @@ class MainActivity : AppCompatActivity() {
          5. MediaCodec으로 프레임 다시 인코딩
          6. MediaMuxer를 사용하여 비디오 파일 저장
          */
+
         var btn_encoding:Button = findViewById(R.id.btn_encoding)
 
         /** H.264를 뜻하는 "video/avc" */
